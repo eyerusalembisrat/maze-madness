@@ -61,4 +61,3 @@ Verified on Linux with GCC (strict warnings enabled), including successful autom
 - Eyerusalem (Heaven) Bisrat
 - Ra'ed Baaith
 
-No open-source license has been selected. Public distribution is subject to contributor consent and applicable course policies.

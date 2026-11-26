@@ -1,0 +1,30 @@
+﻿What is the chemical symbol for gold? ( 1 - Gd, 2 - Go, 3 - Au) 
+3
+What is the national flower of the United States? ( 1 - Tulip, 2 - Lily, 3 - Rose) 
+3
+Which gas is most abundant in Earth’s atmosphere? ( 1 - Oxygen, 2 - Nitrogen, 3 - Argon) 
+2
+Which country gifted the Statue of Liberty to the USA? ( 1 - Spain, 2 - France, 3 - Germany) 
+2
+What is the chemical formula for table salt? ( 1 - H2​O, 2 - CO2​, 3 - NaCl) 
+3
+Which vitamin is produced when the skin is exposed to sunlight? ( 1 - C, 2 - A, 3 - D) 
+3
+What is the collective noun for a group of crows? ( 1 - A flock, 2 - A coven, 3 - A murder) 
+3
+What is the chemical symbol for silver? ( 1 - Sl, 2 - Ag, 3 - Si) 
+2
+What is the fastest land animal? ( 1 - Lion, 2 - Ostrich, 3 - Cheetah) 
+3
+Which city is known as the “City of Canals”? ( 1 - Amsterdam, 2 - Venice, 3 - Stockholm) 
+2
+What is the national animal of Australia? ( 1 - Koala, 2 - Emu, 3 - Kangaroo) 
+3
+What is the largest bone in the human body? ( 1 - Tibia, 2 - Humerus, 3 - Femur) 
+3
+Which blood type is known as the universal donor? ( 1 - A positive, 2 - AB negative, 3 - O negative) 
+3
+What phenomenon occurs when the Moon passes directly between Earth and the Sun? ( 1 - Lunar eclipse, 2 - Solar eclipse, 3 - Transit) 
+2
+What succulent is used to treat burns and dry skin? ( 1 - Cactus, 2 - Aloe vera, 3 - Sedum) 
+2

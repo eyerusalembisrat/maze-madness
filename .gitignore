@@ -1,0 +1,5 @@
+maze-madness
+maze-madness.exe
+*.o
+*.dSYM/
+.DS_Store

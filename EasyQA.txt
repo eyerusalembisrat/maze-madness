@@ -1,0 +1,30 @@
+﻿What is the capital of France? ( 1 - Italy , 2 - Paris, 3 - Milian)
+2
+How many continents are there in the world? ( 1 - Three, 2 - Five, 3 - Seven)  
+3
+What is the tallest mountain in the world? ( 1 - Mount Everest, 2 - K2, 3 - Mount Kilimanjaro) 
+1
+What is the hardest natural substance on Earth? ( 1 - Talc, 2 - Corundum, 3 - Diamond) 
+3
+What American city is home to the Statue of Liberty? ( 1 - Boston, 2 - New York, 3 - Chicago) 
+2
+What is the largest planet in our solar system? ( 1 - Mars, 2 - Earth, 3 - Jupiter) 
+3
+Which planet is known as Earth’s twin? ( 1 - Mars, 2 - Venus, 3 - Jupiter) 
+2
+Which planet is known as the Red Planet? ( 1 - Venus, 2 - Mars, 3 - Jupiter) 
+2
+Which planet is closest to the Sun? ( 1 - Venus, 2 - Mercury, 3 - Earth) 
+2
+Which planet is famous for its rings? ( 1 - Jupiter, 2 - Neptune, 3 - Saturn) 
+3
+What is the boiling point of water in Celsius? ( 1 - Zero, 2 - One Hundred, 3 - Negative Five) 
+2
+Which gas do humans need to breathe to survive? ( 1 - Helium, 2 - Carbon Dioxide, 3 - Oxygen) 
+3
+Which organ in the human body pumps blood? ( 1 - Lungs, 2 - Brain, 3 - Heart) 
+3
+What is the square root of 64? ( 1 - Six, 2 - Eight, 3 - Sixteen) 
+2
+What animal is known as the 'King of the Jungle'? ( 1 - Tiger, 2 - Elephant, 3 - Lion) 
+3

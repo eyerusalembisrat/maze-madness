@@ -1,0 +1,30 @@
+﻿What instrument has keys, pedals, and strings? ( 1 - Piano, 2 - Organ, 3 - Accordion)
+1
+What bird is featured in the title of Harper Lee's infamous novel published in 1960? ( 1 - Robin, 2 - Mockingbird, 3 - Owl) 
+2
+Who proposed the uncertainty principle? ( 1 - Heisenberg, 2 - Bohr, 3 - Dirac )
+1
+What is the chemical formula for ozone? ( 1 - O2, 2 - O3, 3 - CO2 )
+2
+Which planet has the most moons? ( 1 - Jupiter, 2 - Saturn, 3 - Uranus )
+2
+In computer science, what does “CPU” stand for? ( 1 - Central Processing Unit, 2 - Core Power Utility, 3 - Computational Performance Unit )
+1
+Who discovered penicillin? ( 1 - Alexander Fleming, 2 - Louis Pasteur, 3 - Jonas Salk )
+1
+What particle carries the strong nuclear force? ( 1 - Photon, 2 - Gluon, 3 - Neutrino)
+2
+What is the capital of Switzerland? ( 1 - Geneva, 2 - Zurich, 3 - Bern )
+3
+Which organelle is responsible for protein synthesis? ( 1 - Lysosome, 2 - Ribosome, 3 - Chloroplast )
+2
+What is the SI unit of capacitance? ( 1 - Henry, 2 - Farad, 3 - Weber )
+2
+Which gas has the highest thermal conductivity at room temperature? ( 1 - Hydrogen, 2 - Helium, 3 - Neon )
+1
+In statistics, what does a p-value < 0.05 traditionally indicate? ( 1 - High effect size, 2 - Statistically significant result, 3 - Type II error )
+2
+Which memory type holds information for less than a second? ( 1 - Working memory, 2 - Long-term memory, 3 - Sensory memory )
+3
+What is the name of the paradox involving infinite hotel rooms? ( 1 - Zeno’s Paradox, 2 - Hilbert’s Hotel, 3 - Banach–Tarski )
+2
